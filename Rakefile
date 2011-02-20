@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "glitch-ime"
   gem.homepage = "http://github.com/hitode909/glitch-ime"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Glitch IME}
+  gem.description = %Q{Glitch IME using Google CGI API for Japanese Input}
   gem.email = "hitode909@gmail.com"
   gem.authors = ["hitode909"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
