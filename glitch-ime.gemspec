@@ -20,10 +20,12 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "glitch-ime.gemspec",
     "lib/glitch-ime.rb",
     "spec/glitch-ime_spec.rb",
     "spec/spec_helper.rb"
