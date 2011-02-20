@@ -8,7 +8,7 @@ Glitch IME using Google CGI API for Japanese Input.
    ime = GlitchIME.new('にわにはにわにわわにがいます')
     
    10.times {
-     puts img.generate
+     puts ime.generate
    }
 
 
